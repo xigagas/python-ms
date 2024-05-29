@@ -6,6 +6,6 @@
 
 使用方法 python 熵.py exp.exe
 
-合作联系 telegram @xiga857
+接渗透,提权,免杀, telegram @xiga857
 
 ![免杀流程](https://github.com/xigagas/python-ms/assets/139865587/0c9f4561-9ead-40c8-a077-a96f6dce95b0)
